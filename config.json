@@ -3,9 +3,10 @@
   "passwords": {
     "PASTE_YOUR_TOKEN_HERE": "your_discord_password"
   },
-  "targets": ["name1", "name2"],
+  "mode": "random4c",
+  "charset": "abcdefghijklmnopqrstuvwxyz0123456789_.",
   "proxies": [],
-  "check_interval": 0.75,
-  "max_concurrent_checks": 8,
+  "check_interval": 0.4,
+  "max_concurrent_checks": 15,
   "webhook_url": null
 }
