@@ -6,7 +6,7 @@
   "mode": "random4c",
   "charset": "abcdefghijklmnopqrstuvwxyz0123456789_.",
   "proxies": [],
-  "check_interval": 0.4,
-  "max_concurrent_checks": 15,
+  "check_interval": 3.5,
+  "max_concurrent_checks": 2,
   "webhook_url": null
 }
